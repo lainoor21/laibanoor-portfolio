@@ -1,0 +1,110 @@
+DHARMENDRA VISHVKARMA
+Full Stack Web Developer
+
+CONTACT INFORMATION
+Email: dharmendravishwakarma0711@gmail.com
+Phone: +91 6306XXX89
+Location: Delhi, India
+GitHub: https://github.com/dharmendra4522
+LinkedIn: https://www.linkedin.com/in/dharmendra-vishvkarma-969a1924a/
+
+PROFESSIONAL SUMMARY
+Creative and passionate Full Stack Web Developer with 1+ years of experience in web development. 
+Skilled in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and MySQL. 
+Experienced in creating responsive, user-friendly web applications and turning complex problems 
+into simple, beautiful, and intuitive designs. Committed to delivering high-quality solutions 
+and continuously learning new technologies.
+
+WORK EXPERIENCE
+
+Full Stack Web Developer (Freelance)
+2024 — Present
+• Developed full-stack web applications using MERN stack (MongoDB, Express.js, React.js, Node.js)
+• Created responsive and user-friendly interfaces with modern design principles
+• Implemented RESTful APIs and database management systems
+• Collaborated with clients to understand requirements and deliver customized solutions
+• Optimized application performance and ensured cross-browser compatibility
+
+Front-End Developer (Freelance)
+2022 — Present
+• Built responsive websites using HTML, CSS, JavaScript, and React.js
+• Utilized modern CSS frameworks like Bootstrap and Tailwind CSS
+• Created interactive user interfaces with smooth animations and transitions
+• Ensured accessibility and SEO best practices in all projects
+• Maintained and updated existing websites for optimal performance
+
+EDUCATION
+
+Bachelor of Technology in Information Technology
+Ajay Kumar Garg Engineering College, Ghaziabad
+2023 — 2026
+
+Diploma in Computer Science and Engineering
+MMIT Siddhartha Nagar
+2020 — 2023
+
+Higher Secondary (12th) - Science Stream
+P.D.K. Inter College, Mehdawal Sant Kabir Nagar
+2018 — 2020
+
+TECHNICAL SKILLS
+
+Frontend Development:
+• HTML5 & CSS3
+• JavaScript (ES6+)
+• React.js
+• Bootstrap
+• Tailwind CSS
+• Responsive Design
+
+Backend Development:
+• Node.js
+• Express.js
+• RESTful APIs
+• MongoDB
+• MySQL
+• Git & GitHub
+
+Tools & Technologies:
+• VS Code
+• Postman
+• MongoDB Compass
+• Figma
+• Adobe Photoshop
+• Photography
+
+PROJECTS
+
+Wanderlust
+Full Stack Development (MERN)
+A comprehensive travel booking platform with user authentication, property listings, 
+booking management, and payment integration.
+
+PopX
+React.js
+A modern social media application with user registration, login system, and interactive features.
+
+SignatureApp
+HTML, CSS, JavaScript
+A digital signature creation tool with canvas drawing, signature customization, and download functionality.
+
+WeatherApp
+React.js
+A weather application that displays current weather conditions and forecasts using external weather APIs.
+
+CERTIFICATIONS
+
+• TCS CodeVita Season 12 - Global Rank: 455 (February 2025)
+• MERN Stack Development - Apna College (April 2025)
+• Developer and Technology Job Simulation - Accenture UK (March 2025)
+• Solution Architecture Job Simulation - AWS (March 2025)
+• TCS iON Career Edge - IT for Non-IT (December 2024)
+• Java - Infosys Springboard (June 2024)
+• Cyber Security - Infosys Springboard (April 2025)
+• Cyber Security - ISRO (December 2024)
+
+LANGUAGES
+• English: Professional Working Proficiency
+• Hindi: Native Proficiency
+
+This is a placeholder text file for the resume. In a real scenario, this would be converted to a professional PDF format with proper styling and layout. 
